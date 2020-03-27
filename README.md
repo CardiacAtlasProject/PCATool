@@ -1,2 +1,3 @@
 # PCATool
-MATLAB script to visualize PCA of LV shape models
+
+This MATLAB tool shows interactive GUI of the first 10 modes of variations derived from 1,991 MESA models as described in http://www.cardiacatlas.org/tools/lv-shape-static-modes/
